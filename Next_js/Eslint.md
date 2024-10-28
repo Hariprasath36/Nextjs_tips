@@ -1,0 +1,6 @@
+ESLint is a popular open-source tool that helps developers maintain high-quality and consistent JavaScript or TypeScript code by identifying and reporting problems in the code. It enforces coding standards and can automatically fix some issues, making your code cleaner and less prone to errors.
+
+Linting: ESLint checks your code for syntax errors, potential bugs, and style issues based on predefined or custom rules.
+Customizable Rules: You can configure it with your own rules or extend it with existing rule sets (e.g., AirBnB, Google). ESLint lets you turn off or adjust rules to match your coding style.
+Supports Plugins: ESLint has a plugin system that allows you to lint different types of files or use it with frameworks like React or Vue.js. For example, there's a plugin for enforcing code quality in React projects (eslint-plugin-react).
+Code Formatting: Though ESLint’s primary purpose is to detect issues, it can also enforce code formatting rules to ensure consistency. It works well with tools like Prettier to handle both linting and formatting tasks.
