@@ -31,3 +31,7 @@ Automatically optimize images size
 7) Script Optimization
 
 8) SEO
+
+9) one of the feature of nextjs is ServerComponentsHmrCache
+
+10) Automatic request duplication (that means if i need home page 3 or 4 times i will request from server but using this it only 1 time) so it improves performance
