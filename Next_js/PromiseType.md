@@ -1,0 +1,1 @@
+In TypeScript, Promise<Type> represents an object that will eventually return a value of Type or an error. It indicates that a function is asynchronous and will complete its task in the future, returning a result of the specified type.
